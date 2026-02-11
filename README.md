@@ -1,4 +1,4 @@
-# sonic_optic_display
+# sonic_optical_display
 Sonic optical display
 
 ## Description
