@@ -1,5 +1,5 @@
-# sonic_optical_display
-Sonic optical display
+# sonic_optic_display
+A Sonic Optical Display
 
 ## Description
 Sonic sensor/directional mic mapped to optical display with dot density for conveying sonic phenomenon visually.
